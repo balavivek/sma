@@ -139,6 +139,14 @@ ul.dropdown-menu {
     letter-spacing: 5px;
 }
 
+.head-wl h4 a {
+    text-transform: capitalize;
+    color: #f14156;
+    font-size: 20px;
+    display: block;
+    letter-spacing: 5px;
+}
+
 h6.caption {
     font-size: 20px;
     letter-spacing: 2px;
